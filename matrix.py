@@ -330,4 +330,4 @@ if __name__ == "__main__":
             print(e)
             # Add a small delay to avoid rapid looping in case of persistent errors
     time.sleep(5))mall delay to avoid rapid looping in case of persistent errors
-    time.sleep(5)))
+    time.sleep(5)
